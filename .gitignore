@@ -1,0 +1,23 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache/build
+*.pyo
+*.pyd
+dist/
+build/
+*.egg-info/
